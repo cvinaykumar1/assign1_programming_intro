@@ -8,6 +8,8 @@
   <ItemGroup>
     <Compile Remove="q1.cs" />
     <Compile Remove="q2.cs" />
+    <Compile Remove="q3.cs" />
+    <Compile Remove="q4.cs" />
   </ItemGroup>
 
 </Project>
