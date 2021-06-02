@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="q1.cs" />
+    <Compile Remove="q2.cs" />
+  </ItemGroup>
+
 </Project>
