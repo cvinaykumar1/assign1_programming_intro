@@ -10,6 +10,7 @@
     <Compile Remove="q2.cs" />
     <Compile Remove="q3.cs" />
     <Compile Remove="q4.cs" />
+    <Compile Remove="q5.cs" />
   </ItemGroup>
 
 </Project>
